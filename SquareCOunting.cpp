@@ -45,7 +45,8 @@ int main()
                  break;
              
             }
+               cout << c0unt << "\n";
         }
-        cout << c0unt << "\n";
+     
     }
 }
